@@ -30,9 +30,9 @@ I'm a **Master's student in Theoretical Physics** at Universidad Complutense de 
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=InigoPeLo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats-plum.vercel.app/api?username=InigoPeLo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=InigoPeLo&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=InigoPeLo&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 </tr>
@@ -44,7 +44,7 @@ I'm a **Master's student in Theoretical Physics** at Universidad Complutense de 
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,latex,linux,git,github,vscode,jupyter,anaconda&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,latex,linux,git,github,vscode,jupyter,anaconda&theme=dark" />
 
 <br/><br/>
 
@@ -124,7 +124,7 @@ Traveling Salesman Problem solved via Simulated Annealing, with a real-time anim
 
 ### 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/inigopl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/inigopl/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:inigopl69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
