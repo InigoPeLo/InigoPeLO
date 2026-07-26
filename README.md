@@ -23,7 +23,7 @@ I'm a **Master's student in Theoretical Physics** at Universidad Complutense de 
 - 🧩 Comfortable moving between **Cirq/qsim** and **PennyLane** for quantum simulation
 - 📈 Actively transitioning into **data science**, using quantum computing as a differentiator
 - 📍 Based in Madrid, Spain
-- 💬 Ask me about finite-size scaling, oracle-based quantum search, or why Erdős–Rényi graphs matter for benchmarking
+- 💬 Ask me about finite-size scaling, oracle-based quantum search or Montecarlo simulations
 
 </td>
 <td valign="top" width="45%">
